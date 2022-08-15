@@ -1,0 +1,4 @@
+name: MusicPlayer
+version: '${project.version}'
+main: abyss.musicplayer.MusicPlayer
+api-version: 1.16
